@@ -10,3 +10,4 @@ The primary goals of the analysis were to:
 
 This analysis provides insights into the impact of housing, income levels, employment duration, and communication access on credit card approval rates.
 
+![Screenshot Dashboard](https://github.com/user-attachments/assets/f5114fb4-9cae-434b-9cbe-eb5e429affe3)
